@@ -1,8 +1,8 @@
 👋 Hello, I'm Anohita Mukherjee
 
-📚 Second-Year Student at MCKV Institute of Technology
+📚 Second-Year Student at MCKV Institute of Engineering
 
-📊 Aspiring Data Scientist
+📊 Aspiring Data Analyst
 
 Welcome to my GitHub profile! I'm Anohita Mukherjee, a dedicated and passionate second-year student at MCKV Institute of Technology with a strong interest in the field of Data Science.
 
@@ -16,4 +16,4 @@ Here on my GitHub, you'll find a collection of my data science projects, code re
 If you share a passion for data science, technology, and innovation, I invite you to join me on this journey. Let's learn, grow, and make a positive impact together in the world of data!
 
 📫 Get in Touch:
-I'm open to collaborations, discussions, and learning from like-minded individuals. If you have questions, ideas, or just want to connect, don't hesitate to reach out. You can contact me through GitHub or via email at [your email address].
+I'm open to collaborations, discussions, and learning from like-minded individuals. If you have questions, ideas, or just want to connect, don't hesitate to reach out. You can contact me through GitHub or via email at anohitamukherjee@gmail.com.
