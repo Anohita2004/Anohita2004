@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Text Summarization using transformers](https://github.com/Anohita2004/Text_Summarizer-main.git)
 
-- 🌱 I’m currently learning **NLP,Transformers,Deep Learning and BERT**
+- 🌱 I’m currently learning **SAP UI5 development**
 
-- 💬 Ask me about **python,AI and ML**
+- 💬 Ask me about **AL,ML and SAP UI5**
 
 - 📫 How to reach me **anohitamukherjee@gmail.com**
 
