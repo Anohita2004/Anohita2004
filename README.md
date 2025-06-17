@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anohita2004&label=Profile%20views&color=0e75b6&style=flat" alt="anohita2004" /> </p>
 
-- 🔭 I’m currently working on [Text Summarization using transformers](https://github.com/Anohita2004/Text_Summarizer-main.git)
+- 🔭 I’m currently working on [SAPUI5 CRUD Application](https://github.com/Anohita2004/SAPUI5-CRUD-APP.git)
 
 - 🌱 I’m currently learning **SAP UI5 development**
 
