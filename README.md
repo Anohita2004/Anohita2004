@@ -56,6 +56,15 @@
 
 ---
 
+### 🌀 3D GitHub Contribution Graph:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anohita2004/Anohita2004/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anohita2004/Anohita2004/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</p>
+
+---
+
 ![Metrics](https://raw.githubusercontent.com/Anohita2004/Anohita2004/main/github-metrics.svg)
-
-
