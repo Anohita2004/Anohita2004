@@ -1,6 +1,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Anohita2004&style=flat-square&label=Profile%20Views&color=blueviolet)](https://github.com/Anohita2004)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&center=true&width=850&height=80&lines=Anohita+Mukherjee;SAP+Full+Stack+Developer;Enterprise+Applications+with+Data+%26+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&center=true&width=850&height=80&lines=Anohita+Mukherjee;SAP+Consultant;Enterprise+Applications+with+Data+%26+Intelligence)](https://git.io/typing-svg)
 
 ```text
     ---------.---------.+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+------*%@@@@@@@    Anohita@github
@@ -8,9 +8,9 @@
     ---------------..@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.-------*%@@    OS:            Windows 11, Linux
     --------------.#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@..--------%    Host:          B.Tech IT (Final Year)
     ------------.:@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+---------     Kernel:        GPA 9.0 | Problem Solver
-    ---------.-.#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@---------     IDE:           VS Code, IntelliJ IDEA
+    ---------.-.#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@---------     IDE:           VS Code, SAP BAS
     ---------.+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.-------    
-    --------.+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@-------     Role:          SAP Full Stack Developer (Fiori)
+    --------.+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@-------     Role:          SAP Full Stack Developer (Fiori & CAP)
     ------.-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@+.----.     Focus:         Enterprise Applications
     -----.:%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@+----.
     ---..+++%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@+.--.     Languages.Programming:
